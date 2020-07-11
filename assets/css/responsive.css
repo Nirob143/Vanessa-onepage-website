@@ -1,0 +1,155 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+.price span, .price1 span {
+	left: 100px;
+	top: 101px;
+}
+.price strong, .price1 strong {
+	right: 115px;
+}
+.price p, .price1 p {
+	right: 79px;
+}
+.chart-single h5::before {
+	bottom: 65px;
+}
+
+
+
+
+
+
+	}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.slider-content h1 {
+	font-size: 30px;
+}
+.chart-single h5 {
+	font-size: 30px;
+}
+.chart-single h5::before {
+	bottom: 69px;
+	left: 53px;
+}
+.chart-single {
+	width: 180px;
+	height: 180px;
+}
+.chart-single::before {
+	width: 180px;
+	height: 180px;
+}
+.chart-single span {
+	top: 37px;
+	left: 49px;
+	font-size: 17px;
+}
+.chart-single p {
+	font-size: 15px;
+}
+.bannar-text3 a {
+	padding: 7px 5px;
+	font-size: 14px;
+}
+.single-review p {
+	font-size: 15px;
+	color: #888;
+}
+.price-list ul li {
+	font-size: 15px;
+}
+.price h2, .price1 h2 {
+	font-size: 40px;
+}
+.price span, .price1 span {
+	left: 59px;
+}
+.price strong, .price1 strong {
+	right: 73px;
+}
+.price p, .price1 p {
+	right: 38px;
+}
+
+
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+  .slider-content h1 {
+	font-size: 20px;
+}
+.section-title h4 {
+	font-size: 20px;
+}
+.section-title p {
+	font-size: 15px;
+}
+.single-about h4 {
+	font-size: 18px;
+}
+.single-about{
+	margin-bottom: 20px;
+}
+.single-about p {
+	font-size: 15px;
+}
+.chart-single {
+	margin-bottom: 30px;
+}
+.chart-single h5 {
+	font-size: 30px;
+}
+.chart-single h5::before {
+	bottom: 84px;
+}
+.chart-single p {
+	font-size: 15px;
+}
+.chart-single span {
+	font-size: 20px;
+}
+.section-title h1 {
+	color: #000;
+	font-size: 22px;
+}
+.content h4 {
+	font-size: 17px;
+}
+.bannar-text h4 {
+	font-size: 25px;
+}
+.price h2, .price1 h2 {
+	font-size: 45px;
+}
+.price p, .price1 p {
+	right: 79px;
+	top: 129px;
+}
+.price strong, .price1 strong {
+	top: 120px;
+	right: 112px;
+}
+.price span, .price1 span {
+	left: 98px;
+}
+.form form input {
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+
+
+
+
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
